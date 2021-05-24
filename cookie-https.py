@@ -21,21 +21,21 @@ def index():
 def temp1():
     print(request.headers)
     response = make_response("https:temp1 cookie from "+ip_address)
-    response.headers["Set-Cookie"] = "user1_https=temp1_https_"+ip_address
+    response.headers["Set-Cookie"] = "user_https=temp1_https_"+ip_address
     print(response.headers)
     return response
 @app.route('/temp2')
 def temp2():
     print(request.headers)
     response = make_response("https:temp2 cookie from "+ip_address)
-    response.headers["Set-Cookie"] = "user2_https=temp2_https_"+ip_address
+    response.headers["Set-Cookie"] = "user_https=temp2_https_"+ip_address
     print(response.headers)
     return response
 @app.route('/temp3')
 def temp3():
     print(request.headers)
     response = make_response("https:temp3 cookie from "+ip_address)
-    response.headers["Set-Cookie"] = "user3_https=temp3_https_"+ip_address
+    response.headers["Set-Cookie"] = "user_https=temp3_https_"+ip_address
     print(response.headers)
     return response
 if __name__ == '__main__':
