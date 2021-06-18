@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:07:53.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.8.0" etag="4C2T4-2HOwbgBjfEprMw" type="github"><diagram id="ExGmXfaIJiEvYNnNlEh4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-18T06:16:49.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Rnf8BmEWNv3aPvjhv_Us" version="14.8.0" type="github">
+  <diagram id="ExGmXfaIJiEvYNnNlEh4" name="Page-1">
+    <mxGraphModel dx="1754" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-9" value="&lt;font style=&quot;font-size: 36px&quot;&gt;带叶类&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="258.48" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-10" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;茎菜&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="480" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-12" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19" target="UYbcN_BDr67hYqk4-ErK-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-13" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19" target="UYbcN_BDr67hYqk4-ErK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-14" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-15" style="endArrow=none;strokeWidth=6;strokeColor=#736CA8;html=1;entryX=0.991;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19" target="UYbcN_BDr67hYqk4-ErK-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-16" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-17" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#F08705;html=1;entryX=0.433;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19" target="UYbcN_BDr67hYqk4-ErK-22">
+          <mxGeometry x="-120.98000000000002" y="305" width="100" height="100" as="geometry">
+            <mxPoint x="-120.98000000000002" y="405" as="sourcePoint" />
+            <mxPoint x="850" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-18" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" edge="1" parent="1" source="UYbcN_BDr67hYqk4-ErK-19">
+          <mxGeometry x="-120.98000000000002" y="305" width="100" height="100" as="geometry">
+            <mxPoint x="-120.98000000000002" y="405" as="sourcePoint" />
+            <mxPoint x="480" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-19" value="蔬菜" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="659.02" y="755" width="279" height="253.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;块根菜&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="1065" width="219" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;菌类&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1190" width="263" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;球茎菜与香草类&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1090" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;豆类&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="620" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UYbcN_BDr67hYqk4-ErK-25" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;蔬果菜&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="841.5" width="260" height="158.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
